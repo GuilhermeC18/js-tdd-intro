@@ -16,23 +16,6 @@ function capitalizeFirstLetters(input) {
     
     return output;
 };
-/*
-//TDD testing 
 
-//function exists with the right name
-assert.strictEqual(typeof capitalizeFirstLetters, 'function');
-
-//takes one argument
-assert.strictEqual(capitalizeFirstLetters.length, 1);
-
-//capitalizes one word 
-assert.strictEqual(capitalizeFirstLetters("capital"), "Capital");
-
-//capitalizes one letter 
-assert.strictEqual(capitalizeFirstLetters("a"), "A"); 
-
-//capitalizes all words in a sentence 
-assert.strictEqual(capitalizeFirstLetters("all words in a sentence"), "All Words In A Sentence");
-*/
 
 module.exports = capitalizeFirstLetters;
