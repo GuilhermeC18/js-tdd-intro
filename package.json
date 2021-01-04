@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "Learning Test-Driven Development",
+  "main": "capitalizeFirstLetters.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeC18/js-tdd-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeC18/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/GuilhermeC18/js-tdd-intro#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
